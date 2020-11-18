@@ -3,7 +3,7 @@
 
 Hi, I'm Peng Jun, a Front-end Web Developer from China. Now, I'm studying computer science at Peking University together with an internship in SIEMENS. Besides programming, I am also fond of travelling and photographing.
 
-You can also find me in websites below : )
+You can find me in websites below : )
 
 Resume: [LinkedIn](https://www.linkedin.cn/in/dustinpeng/) 
 
