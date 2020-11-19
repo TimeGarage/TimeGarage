@@ -12,7 +12,7 @@ For more information,  click these websites below : )
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=TimeGarage&count_private=true&hide_border=true&show_icons=true&theme=vue"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TimeGarage&count_private=true&hide_border=true&show_icons=true&theme=vue&hide_title=true" />
 
 
 ## Contact Me
