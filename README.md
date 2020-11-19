@@ -16,17 +16,6 @@ For more information,  click these websites below : )
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimeGarage&layout=compact&theme=vue)
 
-## Tools I Use
-
-### Web Development </br>
-HTML5 CSS3 JavaScript Vue.js Babel </br>
-Node.js Express MongoDB Docker
-
-### Data Analysis 
-Python3 Numpy Pandas Matplotlib Seaborn Sklearn Keras
-
-### Operation System
-Ubuntu MacOS
 
 ## Contact Me
 
