@@ -12,7 +12,7 @@ For more information,  click these websites below : )
 
 ## GitHub Stats
 
-<div style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api?username=TimeGarage&count_private=true&hide_border=true&show_icons=true&theme=vue" height="190px" style="vertical-align:top;"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?hide=jupyter+notebook&theme=vue&username=TimeGarage&hide_border=true&layout=compact" height="140px" /></div>
+<div style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api?username=TimeGarage&count_private=true&hide_border=true&show_icons=true&theme=vue" height="190px" style="vertical-align:top;"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?hide=jupyter+notebook&theme=vue&username=TimeGarage&hide_border=true&layout=compact" height="140px style="vertical-align:top;" /></div>
 
 
 ## Contact Me
