@@ -12,9 +12,9 @@ For more information,  click these websites below : )
 
 ## GitHub Stats
 
-![Dustin's github stats](https://github-readme-stats.vercel.app/api?username=TimeGarage&count_private=true&show_icons=true&theme=vue)
+![Dustin's github stats](https://github-readme-stats.vercel.app/api?username=TimeGarage&count_private=true&hide_border=true&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimeGarage&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimeGarage&layout=compact&hide_border=true&theme=vue)
 
 
 ## Contact Me
