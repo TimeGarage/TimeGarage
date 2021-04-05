@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi, I'm Dustin, a Front-end Web Developer from China. Currently, I'm studying Computer Science at [Peking University](https://www.pku.edu.cn) together with an internship in [SIEMENS](https://www.siemens.com/global/en.html). Besides programming, I am also fond of travelling and photographing. 
+Hi, I'm Dustin, a Front-end Web Developer from China. Currently, I'm studying Computer Science at [Peking University](https://www.pku.edu.cn) together with an incoming internship in [Tencent](https://www.tencent.com). Besides programming, I am also fond of travelling and photographing. 
 
 For more information,  click these websites below : )
 - Resume ➔ [LinkedIn](https://www.linkedin.com/in/dustinpeng)
