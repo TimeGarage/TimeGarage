@@ -19,6 +19,6 @@ For more information,  click these websites below : )
 
 You can communicate with me in English or Chinese.
 
-✉️ Email ➔ 82610725@163.com</br>
+✉️ Email ➔ dustinpeng@pku.edu.cn</br>
 💬 WeChat ➔ TimeGarage
 
